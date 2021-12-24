@@ -1,0 +1,134 @@
+header {
+    background: #415e9b;
+    height: 82px;
+    border: 1px solid #133783;
+}
+
+.logo {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 18px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.header-block {
+    width: 992px;
+    margin: 0px auto;
+    padding-top: 20px;
+}
+
+.logo {
+    width: 50%;
+    float: left;
+}
+
+.login {
+    width: 50%;
+    float: left;
+}
+
+.header-block label {
+    color: white;
+}
+
+.email {
+    float: left;
+}
+
+.password input[type="password"] {
+    height: 20px;
+    width: 150px;
+}
+
+.email input[type="text"] {
+    height: 20px;
+    width: 150px;
+}
+
+.password {
+    float: left;
+    margin-left: 15px;
+}
+
+.password a {
+    color: #8fb1d8;
+    text-decoration: none;
+    display: block;
+}
+
+.password label {
+    padding-bottom: 10px;
+}
+
+.lognbtn {
+    margin-top: 20px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.lognbtn input[type=submit] {
+    background: #4267b2;
+    border-radius: 2px;
+    color: white;
+    height: 20px;
+    width: 50px;
+}
+
+.email label {
+    padding-bottom: 10px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.content-block {
+    width: 992px;
+    margin: auto;
+}
+
+#img2 {
+    margin-top: 30px;
+
+    width: 50%;
+}
+
+.facebook-connect {
+    margin-top: 50px;
+    font-size: 25px;
+    margin-bottom: 50px;
+    
+}
+#para{
+    color: rgb(43, 43, 128);
+    font-size: 23px;
+    font-family: Helvetica, sans-serif;
+    font-style:normal
+}
+
+.create-account{
+    float: right ;
+    width: 50%;
+}
+
+.create-account h2{
+    font-size: 40px;
+    font-family: Helvetica, sans-serif;
+}
+
+.free{
+    font-size: 25px;
+    font-weight: bold;
+    font-family:sans-serif;
+    margin-top: 20px;
+      margin-bottom: 20px;
+}
+
+.account input[type="text"]{
+    height: 36px;
+    margin-bottom: 15px;
+   border-radius: 5px;
+   padding: 10px;
+}
